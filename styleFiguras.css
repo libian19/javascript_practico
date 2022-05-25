@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+    background-image: url('./esto-es-un-modelo-de-figuras-geométricas-en-fondo-blanco-120588864.jpg');
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px;
+    height: 150px;
+    font-size: medium;
+    align-items: center;
+}
+
+h2{
+    color: purple;
+}
+ h3{
+     text-align: center;
+ }
+
+div{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px;
+    height: 500px;
+    text-align: left;
+    align-items: center;
+}
+
+.nombreFiguras{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: justify;  
+    width: 90%; 
+    min-width: 288px;
+    max-width: 500px;
+    height: 200px;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: blueviolet;
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);
+    font-size: medium;
+}
