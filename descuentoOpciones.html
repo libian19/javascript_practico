@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Precio con Descuento</title>
+</head>
+<body>
+    <h1>Conoce el Precio a Pagar por tu Producto</h1>
+    <section>
+        <form action="">
+            <label for="precioReal">
+                Cuál es el precio de tu producto?
+            </label>
+            <input id="precioReal" type="number"/>
+
+            <select name="cupones" id="cupones">
+                <option value="jdc">JuanDC es Batman</option>
+                <option value="nodigas">No lo digas a nadie</option>
+                <option value="secreto">Es un secreto</option>
+            </select>
+            
+            <button type="button" onclick="calcularPrecioAPagar()">Calcular el Precio a Pagar</button>
+            <p id="resultadoPrecio"></p>
+
+        </form>
+
+    </section>
+    <script src="./descuentoOpciones.js"></script>
+    
+</body>
+</html>
