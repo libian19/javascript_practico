@@ -13,9 +13,25 @@ Repositorio para mantener los ejercicios del curso práctico de JavaScript en Pl
 ## Archivos: descuentoOpciones.html, descuentoOpciones.js. 
 ## Pendiente implementar archivo de estilos.
 - Analizar las fórmulas.
--Crear archivos y fórmulas con JS.
+- Crear archivos y fórmulas con JS.
 - Implementar funciones.
 - Integrar JS CON HTML.
 - Hacer pruebas, revisiones y correcciones.
 
+## 3er. Taller. Calcular Media Aritmética, Mediana y Moda de salarios.
+## Archivos: salario.html, salario.js, salarioAnalisis.js. 
+## Pendiente implementar archivo de estilos.
+- Analizar las fórmulas.
+- Crear archivos y fórmulas con JS.
+- Implementar funciones.
+- Integrar JS CON HTML.
+- Hacer pruebas, revisiones y correcciones.
 
+##  RETO. Calcular Ganancias de inversión.
+## Archivos: inversion.html, inversionPrestamo.js, inversionSocio.js. 
+## Pendiente implementar archivo de estilos.
+- Analizar las fórmulas.
+- Crear archivos y fórmulas con JS.
+- Implementar funciones.
+- Integrar JS CON HTML.
+- Hacer pruebas, revisiones y correcciones.

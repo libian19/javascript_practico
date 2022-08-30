@@ -10,8 +10,7 @@ function calcularPrecioAPagar (){
     const precioRealProducto = parseInt(precioProducto.value);
     const select = document.getElementById("cupones");
     const cuponValor = select.options[select.selectedIndex].value;
-    console.log (cuponValor);
-
+   
     let descuento;
     if (cuponValor === 'jdc'){
         descuento = 30;
